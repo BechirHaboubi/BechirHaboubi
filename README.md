@@ -81,16 +81,22 @@ class BechirHaboubi:
 
 ## Certifications
 
-| Certification | Issuer | Year |
-|---|---|---|
-| Exploring Adversarial Machine Learning | NVIDIA DLI | 2026 |
-| Exposure Management Expert | XM Cyber | 2025 |
-| Getting Started with Deep Learning | NVIDIA DLI | 2025 |
-| Data Engineer | 365 Data Science | 2025 |
-| Advanced SQL for Data Engineering | 365 Data Science | 2025 |
-| Machine Learning with Python V2 | IBM | 2024 |
-| Azure AI Fundamentals — AI-900 | Microsoft | 2024 |
-| Azure Fundamentals — AZ-900 | Microsoft | 2024 |
+<div align="center">
+
+![](https://img.shields.io/badge/Adversarial_Machine_Learning-2026-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/Getting_Started_with_Deep_Learning-2025-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+![](https://img.shields.io/badge/Azure_AI_Fundamentals_AI--900-2024-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/Azure_Fundamentals_AZ--900-2024-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+![](https://img.shields.io/badge/Machine_Learning_with_Python_V2-2024-1F70C1?style=flat-square&logo=ibm&logoColor=white)
+
+![](https://img.shields.io/badge/Data_Engineer-2025-7B2FBE?style=flat-square&logo=databricks&logoColor=white)
+![](https://img.shields.io/badge/Advanced_SQL_for_Data_Engineering-2025-7B2FBE?style=flat-square&logo=databricks&logoColor=white)
+
+![](https://img.shields.io/badge/Exposure_Management_Expert-2025-E63946?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
